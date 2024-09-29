@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-koot magdy - [Github](https://github.com/kootmagdy)  
-Eslam alawy - [Github](https://github.com/eslamalawy)
+Haythem Baganna - [Github](https://github.com/heythemba) - [email](heythem.94@gmail.com)  
+Racem Bouchnak - [Github](https://github.com/Racem-BOUCHNAK) - [email](racem.bouchn@gmail.com)
 
 Second part of Airbnb: Joann Vuong
 ## License
